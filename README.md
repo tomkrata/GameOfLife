@@ -1,2 +1,2 @@
-# GameOfLife
- Verze 1.0.1
+# Deflektor
+ Verze 1.0.0
